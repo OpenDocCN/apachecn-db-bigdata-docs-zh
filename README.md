@@ -4,22 +4,22 @@
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-* [在线阅读](https://bddoc.apachecn.org)
+* [在线阅读](https://bddoc.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-db-bigdata-docs-zh
-docker run -tid -p <port>:80 apachecn0/apachecn-db-bigdata-docs-zh
+docker pull apachecn0/flygon-db-bigdata-docs-zh
+docker run -tid -p <port>:80 apachecn0/flygon-db-bigdata-docs-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-db-bigdata-docs-zh
-apachecn-db-bigdata-docs-zh <port>
+npm install -g flygon-db-bigdata-docs-zh
+flygon-db-bigdata-docs-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
